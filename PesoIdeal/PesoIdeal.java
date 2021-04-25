@@ -37,8 +37,8 @@ public class PesoIdeal {
 			System.out.println("Informação inválida.");
 		}
 		}
-		else { System.out.println("Altra inválida");
+		else { System.out.println("Altura inválida");
 		}
-
+		entrada.close();
 	}
 }
